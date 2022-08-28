@@ -1,0 +1,11 @@
+
+
+<b>🇧🇷</b>
+
+CASO QUERIA DEIXAR O SCRIPT COMO .EXE BASTA COLOCAR ESTE COMANDO NO TERMINAL DA SUA IDE
+(pip install pyinstaller)
+
+<b>🇺🇸</b>
+
+IF YOU WANT TO LEAVE THE SCRIPT AS .EXE JUST PUT THIS COMMAND IN THE TERMINAL OF YOUR IDE
+(pip install pyinstaller)
